@@ -1,0 +1,4 @@
+service namespace "ODataEsp" {
+    entity "DBA"."ESP";
+}
+
